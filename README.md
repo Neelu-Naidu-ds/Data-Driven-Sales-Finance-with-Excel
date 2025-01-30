@@ -2,7 +2,7 @@
 
 ## **Customer & Market Performance Overview**
 
-- The company experienced strong sales growth, driven by increasing customer demand and market expansion. *01_Customer Net Sales Performance Report.pdf*
+- The company experienced strong sales growth, driven by increasing customer demand and market expansion.01_Customer Net Sales Performance Report.pdf
 - Key customers played a significant role in revenue growth, with contributions from both established and new partners.
 - While top-performing markets showed steady growth, some regions struggled to meet sales targets, indicating areas for improvement. *(Source: Market_Performance_vs_Target.pdf)*
 - Despite overall success, certain markets did not reach projected sales, highlighting opportunities for strategic adjustments.
