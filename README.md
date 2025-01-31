@@ -60,7 +60,6 @@ This summary provides a **concise overview of business performance** and outline
 ✅ **Key markets are driving revenue growth** – Focus on these regions for expansion.  
 ✅ **Rising costs need to be controlled** – Optimize supply chains and cost management.  
 ✅ **Gross margins are declining** – Adjust pricing strategies to improve profitability.  
-✅ **Peak sales occur in later months** – Plan inventory and marketing accordingly.  
-✅ **High-margin regions present opportunities** – Strengthen focus on these areas.  
+✅ **Peak sales occur in later months** – Plan inventory and marketing accordingly.    
 
 This summary provides a **clear financial overview** and **actionable strategies** for sustained growth.
