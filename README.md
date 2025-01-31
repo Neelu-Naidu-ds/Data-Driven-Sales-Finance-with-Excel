@@ -1,4 +1,5 @@
-# 📊 AtliQ Business Performance report
+# 📊 AtliQ Business Performance report 
+[AtliQ Business Report.pdf](https://github.com/Neelu-Naidu-ds/Data-Driven-Sales-Finance-with-Excel/blob/main/AtliQ%20Business%20Report.pdf)
 
 ## **Introduction**
 AtliQ Hardware provides quality computer parts and electronics to customers and businesses. It sells everything from computer components to networking equipment, focusing on reliable products and good customer service.
