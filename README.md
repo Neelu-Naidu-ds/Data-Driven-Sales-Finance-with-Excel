@@ -37,7 +37,6 @@ AtliQ aims to achieve the following key goals:
 ✅ **Streamline supply chain operations** to improve efficiency and reduce costs.  
 ✅ **Prioritize high-growth customers and product categories** to sustain revenue expansion.  
 ✅ **Expand into top-performing markets** to leverage growth potential.  
-✅ **Refine pricing and promotional strategies** to boost underperforming products.  
 
 This summary provides a **concise overview of business performance** and outlines **key actions for sustained growth and market leadership**.
 
