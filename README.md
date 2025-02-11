@@ -19,7 +19,7 @@ AtliQ aims to achieve the following key goals:
 
 ## *Customer & Market Performance Overview*
 
-- The company experienced strong sales growth,customer demand and market expansion.[01_Customer Net Sales Performance Report.pdf](https://github.com/Neelu-Naidu-ds/Data-Driven-Sales-Finance-with-Excel/blob/main/01_Customer%20Net%20Sales%20Performance%20Report.pdf)
+- The company experienced strong sales growth,customer demand and market expansion.[01_customer Net Sales Performance](https://github.com/Neelu-Naidu-ds/Data-Driven-Sales-Finance-with-Excel/blob/main/01_Customer%20Net%20Sales%20Performance%20Report.pdf)
 - Key customers played a significant role in revenue growth, with contributions from both established and new partners.
 - While top-performing markets showed steady growth, some regions struggled to meet sales targets, indicating areas for improvement.[Market_Performance_vs_Target.pdf](https://github.com/Neelu-Naidu-ds/Data-Driven-Sales-Finance-with-Excel/blob/main/02_Market%20Performance%20vs%20Target.pdf)
 - Despite overall success, certain markets did not reach projected sales, highlighting opportunities for strategic adjustments.
